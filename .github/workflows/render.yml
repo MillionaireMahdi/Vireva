@@ -17,11 +17,11 @@ on:
       channel_name:
         description: 'Channel to operate on'
         required: true
-        default: 'Grid Hardened'
+        default: 'Derma-Fi'
         type: choice
         options:
-          - Grid Hardened
-          - Brew-Fi
+          - Derma-Fi
+          - Chrono-Fi
       topic:
         description: 'Topic Name'
         required: false
