@@ -24,6 +24,8 @@ on:
         options:
           - Derma-Fi
           - Chrono-Fi
+          - Deep Signal
+
       topic:
         description: 'Topic Name'
         required: false
