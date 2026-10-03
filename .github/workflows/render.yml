@@ -19,10 +19,10 @@ on:
       channel_name:
         description: 'Channel to operate on'
         required: true
-        default: 'Derma-Fi'
+        default: 'Mouse-Fi'
         type: choice
         options:
-          - Derma-Fi
+          - Mouse-Fi
           - Chrono-Fi
           - Deep Signal
 
